@@ -3,3 +3,4 @@
 - Multi cursor
 - File navigation
 - Code editing
+  - Deleting code
