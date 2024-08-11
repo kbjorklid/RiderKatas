@@ -1,0 +1,5 @@
+﻿Add Katas for:
+- GitHub CoPilot
+- Multi cursor
+- File navigation
+- Code editing
