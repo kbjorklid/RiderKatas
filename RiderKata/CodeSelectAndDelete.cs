@@ -1,4 +1,4 @@
-﻿namespace RiderKata.CodeNavigation;
+﻿namespace RiderKata;
 
 public class CodeSelectAndDelete
 {

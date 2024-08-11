@@ -4,3 +4,6 @@
 - File navigation
 - Code editing
   - Deleting code
+  - Refactoring
+  - Code Generation (w/o github) & completing
+- Moving focus between splits and tool windows

@@ -1,4 +1,4 @@
-﻿namespace RiderKata.CodeNavigation;
+﻿namespace RiderKata;
 
 // ** TASK 1: Go to FirstMethod by using 'next declaration' navigation
 #region Task 1 hint
