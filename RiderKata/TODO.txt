@@ -6,4 +6,5 @@
   - Deleting code
   - Refactoring
   - Code Generation (w/o github) & completing
+  - Commenting/uncommenting code
 - Moving focus between splits and tool windows

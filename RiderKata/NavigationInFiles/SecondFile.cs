@@ -2,8 +2,8 @@
 
 public class SecondFile
 {
-    // Task 2: Use 'recent files' navigation to go back to FirstFile.cs
+    // Task 2: Use 'search everywhere' to go to ThirdFile.cs
     #region tip
-    // Ctrl + E
+    // Double Shift
     #endregion
 }
